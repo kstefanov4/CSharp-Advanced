@@ -28,9 +28,10 @@ namespace TruckTour
                 {
                     pumpQueue.Dequeue();
                     pumpQueue.Enqueue(currentArray);
-                    pumpIndex = index +1;
+                    pumpIndex += index + 1;
                     i = -1;
                     distance = 0;
+                    index = 0;
                 }
                 else
                 {

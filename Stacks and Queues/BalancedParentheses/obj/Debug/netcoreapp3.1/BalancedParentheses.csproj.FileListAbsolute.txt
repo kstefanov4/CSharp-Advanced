@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.exe
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.deps.json
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.dll
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\bin\Debug\netcoreapp3.1\BalancedParentheses.pdb
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.dll
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.pdb
+C:\GitHub\CSharp-Advanced\Stacks and Queues\BalancedParentheses\obj\Debug\netcoreapp3.1\BalancedParentheses.genruntimeconfig.cache
