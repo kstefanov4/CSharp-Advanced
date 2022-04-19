@@ -20,20 +20,29 @@ namespace BalancedParentheses
                 {
                     parentheseStack.Push(currentChar);
                 }
-                else if ((parentheseStack.Peek() == '(' && currentChar == ')') || (parentheseStack.Peek() == '{' && currentChar == '}') || (parentheseStack.Peek() == '[' && currentChar == ']'))
-                {
-                    parentheseStack.Pop();
-                }
                 else
                 {
-                    Console.WriteLine("NO");
-                    return;
+                    if (parentheseStack.Count == 0)
+                    {
+                        Console.WriteLine("NO");
+                        return;
+                    }
+                    if ((parentheseStack.Peek() == '(' && currentChar == ')') || (parentheseStack.Peek() == '{' && currentChar == '}') || (parentheseStack.Peek() == '[' && currentChar == ']'))
+                    {
+                        parentheseStack.Pop();
+                    }
+                    else
+                    {
+                        Console.WriteLine("NO");
+                        return;
+                    }
                 }
-               
+
+
             }
-            
-                Console.WriteLine("YES");
-            
+
+            Console.WriteLine("YES");
+
 
         }
     }
