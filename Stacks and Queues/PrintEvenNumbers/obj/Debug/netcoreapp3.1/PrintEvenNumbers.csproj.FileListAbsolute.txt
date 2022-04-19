@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.exe
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.deps.json
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.json
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\bin\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.dll
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.pdb
+C:\Users\kstefanov\source\repos\PrintEvenNumbers\obj\Debug\netcoreapp3.1\PrintEvenNumbers.genruntimeconfig.cache
