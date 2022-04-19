@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.exe
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.deps.json
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.dll
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.pdb
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.dll
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.pdb
+C:\GitHub\CSharp-Advanced\Stacks and Queues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.genruntimeconfig.cache
