@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.exe
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.deps.json
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.dll
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.pdb
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.dll
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.pdb
+C:\Users\kstefanov\source\repos\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.genruntimeconfig.cache
