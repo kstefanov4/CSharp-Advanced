@@ -1,0 +1,13 @@
+C:\Users\kstefanov\source\repos\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.exe
+C:\Users\kstefanov\source\repos\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.deps.json
+C:\Users\kstefanov\source\repos\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.json
+C:\Users\kstefanov\source\repos\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.dll
+C:\Users\kstefanov\source\repos\FashionBoutique\bin\Debug\netcoreapp3.1\FashionBoutique.pdb
+C:\Users\kstefanov\source\repos\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.dll
+C:\Users\kstefanov\source\repos\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.pdb
+C:\Users\kstefanov\source\repos\FashionBoutique\obj\Debug\netcoreapp3.1\FashionBoutique.genruntimeconfig.cache
