@@ -1,0 +1,13 @@
+C:\Users\kstefanov\source\repos\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.exe
+C:\Users\kstefanov\source\repos\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.deps.json
+C:\Users\kstefanov\source\repos\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.json
+C:\Users\kstefanov\source\repos\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.dll
+C:\Users\kstefanov\source\repos\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.pdb
+C:\Users\kstefanov\source\repos\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.dll
+C:\Users\kstefanov\source\repos\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.pdb
+C:\Users\kstefanov\source\repos\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.genruntimeconfig.cache
