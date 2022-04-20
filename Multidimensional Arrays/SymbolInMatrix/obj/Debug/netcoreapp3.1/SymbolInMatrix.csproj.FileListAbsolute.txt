@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.exe
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.deps.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.genruntimeconfig.cache

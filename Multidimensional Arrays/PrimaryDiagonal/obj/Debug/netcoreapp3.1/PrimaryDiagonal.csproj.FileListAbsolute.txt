@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.exe
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.deps.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.genruntimeconfig.cache
