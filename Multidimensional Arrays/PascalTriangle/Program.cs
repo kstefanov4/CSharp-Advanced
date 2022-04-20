@@ -8,11 +8,11 @@ namespace PascalTriangle
         {
             int num = int.Parse(Console.ReadLine());
 
-            int[][] jaggedArray = new int[num][];
+            long[][] jaggedArray = new long[num][];
 
             for (int i = 0; i < num; i++)
             {
-                jaggedArray[i] = new int[i+1];
+                jaggedArray[i] = new long[i+1];
             }
 
             for (int i = 0; i < num; i++)
