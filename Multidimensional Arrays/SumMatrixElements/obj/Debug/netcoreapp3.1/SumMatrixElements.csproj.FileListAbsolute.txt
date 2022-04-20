@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.exe
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.deps.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\bin\Debug\netcoreapp3.1\SumMatrixElements.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SumMatrixElements\obj\Debug\netcoreapp3.1\SumMatrixElements.genruntimeconfig.cache
