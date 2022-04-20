@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.exe
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.deps.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.genruntimeconfig.cache

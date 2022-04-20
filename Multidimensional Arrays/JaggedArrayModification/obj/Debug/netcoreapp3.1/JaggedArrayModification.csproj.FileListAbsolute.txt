@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.exe
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.deps.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\bin\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.dll
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.pdb
+C:\GitHub\CSharp-Advanced\Multidimensional Arrays\JaggedArrayModification\obj\Debug\netcoreapp3.1\JaggedArrayModification.genruntimeconfig.cache
