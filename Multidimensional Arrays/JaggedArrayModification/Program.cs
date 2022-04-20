@@ -25,21 +25,33 @@ namespace JaggedArrayModification
                 int col = int.Parse(cmdArray[2]);
                 int newValue = int.Parse(cmdArray[3]);
 
-                if (row < 0 || row > jaggetArray.Length -1 || col < 0 || col > jaggetArray[num].Length)
+                if (row < 0 || row > jaggetArray.Length -1 || col < 0 || col > jaggetArray[row].Length)
                 {
                     Console.WriteLine("Invalid coordinates");
-                }
-                if (cmdArray[0] == "Add")
-                {
-                    jaggetArray[row][col] += newValue;
-                }
-                else if (cmdArray[0] == "Subtract")
-                {
-                    jaggetArray[row][col] -= newValue;
-                }
 
+                }
+                else
+                {
 
+                    if (cmdArray[0] == "Add")
+                    {
+                        jaggetArray[row][col] += newValue;
+                    }
+                    else if (cmdArray[0] == "Subtract")
+                    {
+                        jaggetArray[row][col] -= newValue;
+                    }
+                }
                 commands = Console.ReadLine();
+            }
+
+            for (int i = 0; i < jaggetArray.Length; i++)
+            {
+                for (int j = 0; j < jaggetArray[i].Length; j++)
+                {
+                    Console.Write(jaggetArray[i][j] + " ");
+                }
+                Console.WriteLine();
             }
         }
     }
