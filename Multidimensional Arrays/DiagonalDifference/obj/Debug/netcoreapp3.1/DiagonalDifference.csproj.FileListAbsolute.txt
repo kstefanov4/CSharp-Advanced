@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.exe
+C:\Users\kstefanov\source\repos\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.deps.json
+C:\Users\kstefanov\source\repos\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.json
+C:\Users\kstefanov\source\repos\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\kstefanov\source\repos\DiagonalDifference\bin\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\kstefanov\source\repos\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.dll
+C:\Users\kstefanov\source\repos\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.pdb
+C:\Users\kstefanov\source\repos\DiagonalDifference\obj\Debug\netcoreapp3.1\DiagonalDifference.genruntimeconfig.cache
