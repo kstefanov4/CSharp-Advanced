@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.exe
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.deps.json
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.runtimeconfig.json
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.dll
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.pdb
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.dll
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.pdb
+C:\Users\kstefanov\source\repos\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.genruntimeconfig.cache
