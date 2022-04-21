@@ -1,0 +1,13 @@
+C:\Users\kstefanov\source\repos\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.exe
+C:\Users\kstefanov\source\repos\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.deps.json
+C:\Users\kstefanov\source\repos\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.runtimeconfig.json
+C:\Users\kstefanov\source\repos\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.dll
+C:\Users\kstefanov\source\repos\MaximalSum\bin\Debug\netcoreapp3.1\MaximalSum.pdb
+C:\Users\kstefanov\source\repos\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.dll
+C:\Users\kstefanov\source\repos\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.pdb
+C:\Users\kstefanov\source\repos\MaximalSum\obj\Debug\netcoreapp3.1\MaximalSum.genruntimeconfig.cache
