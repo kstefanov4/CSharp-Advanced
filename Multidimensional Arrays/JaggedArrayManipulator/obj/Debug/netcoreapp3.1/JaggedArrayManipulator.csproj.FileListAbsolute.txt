@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.exe
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.deps.json
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.runtimeconfig.json
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.dll
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.pdb
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.dll
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.pdb
+C:\Users\kstefanov\source\repos\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.genruntimeconfig.cache
