@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+C:\Users\kstefanov\source\repos\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+C:\Users\kstefanov\source\repos\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+C:\Users\kstefanov\source\repos\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\kstefanov\source\repos\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\kstefanov\source\repos\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\kstefanov\source\repos\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\kstefanov\source\repos\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.genruntimeconfig.cache
