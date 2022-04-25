@@ -15,7 +15,7 @@ namespace AverageStudentGrades
             for (int i = 0; i < num; i++)
             {
                 string input = Console.ReadLine();
-                string name = input.Split(" ")[0];
+                string name = input.Split(' ', StringSplitOptions.RemoveEmptyEntries)[0];
                 decimal grade = decimal.Parse(input.Split()[1]);
 
                 if (!students.ContainsKey(name))
@@ -29,7 +29,7 @@ namespace AverageStudentGrades
             foreach (var student in students)
             {
                 double averageSum = (double)student.Value.Average();
-                Console.WriteLine($"{student.Key} -> {string.Join(" ", student.Value)} (avg: {averageSum:F2})");
+                Console.WriteLine($"{student.Key} -> {string.Join(' ', student.Value.Select(x => $"{x:f2}"))} (avg: {student.Value.Average():f2})");
             }
         }
     }
