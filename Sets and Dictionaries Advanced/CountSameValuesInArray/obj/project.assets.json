@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\CSharp-Advanced\\Sets and Dictionaries Advanced\\AverageStudentGrades\\AverageStudentGrades.csproj",
-      "projectName": "AverageStudentGrades",
-      "projectPath": "C:\\GitHub\\CSharp-Advanced\\Sets and Dictionaries Advanced\\AverageStudentGrades\\AverageStudentGrades.csproj",
+      "projectUniqueName": "C:\\GitHub\\CSharp-Advanced\\Sets and Dictionaries Advanced\\CountSameValuesInArray\\CountSameValuesInArray.csproj",
+      "projectName": "CountSameValuesInArray",
+      "projectPath": "C:\\GitHub\\CSharp-Advanced\\Sets and Dictionaries Advanced\\CountSameValuesInArray\\CountSameValuesInArray.csproj",
       "packagesPath": "C:\\Users\\35988\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\CSharp-Advanced\\Sets and Dictionaries Advanced\\AverageStudentGrades\\obj\\",
+      "outputPath": "C:\\GitHub\\CSharp-Advanced\\Sets and Dictionaries Advanced\\CountSameValuesInArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\35988\\AppData\\Roaming\\NuGet\\NuGet.Config",
