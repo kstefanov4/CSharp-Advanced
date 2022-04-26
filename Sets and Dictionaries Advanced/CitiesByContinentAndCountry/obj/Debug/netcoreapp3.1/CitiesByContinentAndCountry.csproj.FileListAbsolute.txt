@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.exe
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.deps.json
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+C:\Users\kstefanov\source\repos\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.genruntimeconfig.cache
