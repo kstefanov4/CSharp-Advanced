@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.exe
+C:\Users\kstefanov\source\repos\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.deps.json
+C:\Users\kstefanov\source\repos\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.json
+C:\Users\kstefanov\source\repos\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.dll
+C:\Users\kstefanov\source\repos\ProductShop\bin\Debug\netcoreapp3.1\ProductShop.pdb
+C:\Users\kstefanov\source\repos\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.dll
+C:\Users\kstefanov\source\repos\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.pdb
+C:\Users\kstefanov\source\repos\ProductShop\obj\Debug\netcoreapp3.1\ProductShop.genruntimeconfig.cache
