@@ -1,0 +1,14 @@
+C:\GitHub\Streams_Files_Directories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\GitHub\Streams_Files_Directories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\GitHub\Streams_Files_Directories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\GitHub\Streams_Files_Directories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\GitHub\Streams_Files_Directories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\GitHub\Streams_Files_Directories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\GitHub\Streams_Files_Directories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\GitHub\Streams_Files_Directories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Streams_Files_Directories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\GitHub\Streams_Files_Directories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\GitHub\Streams_Files_Directories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\GitHub\Streams_Files_Directories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\GitHub\Streams_Files_Directories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\GitHub\Streams_Files_Directories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
