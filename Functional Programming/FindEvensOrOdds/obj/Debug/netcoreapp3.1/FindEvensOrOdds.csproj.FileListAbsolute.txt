@@ -1,0 +1,13 @@
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.exe
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.deps.json
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.runtimeconfig.json
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.dll
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\bin\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.dll
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.pdb
+C:\Users\kstefanov\source\repos\FindEvensOrOdds\obj\Debug\netcoreapp3.1\FindEvensOrOdds.genruntimeconfig.cache

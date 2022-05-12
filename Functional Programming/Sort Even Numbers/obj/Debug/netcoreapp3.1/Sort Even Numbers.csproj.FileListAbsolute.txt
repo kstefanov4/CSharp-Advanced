@@ -1,0 +1,14 @@
+C:\Users\kstefanov\source\repos\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.exe
+C:\Users\kstefanov\source\repos\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.deps.json
+C:\Users\kstefanov\source\repos\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.json
+C:\Users\kstefanov\source\repos\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.dll
+C:\Users\kstefanov\source\repos\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+C:\Users\kstefanov\source\repos\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\kstefanov\source\repos\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.dll
+C:\Users\kstefanov\source\repos\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+C:\Users\kstefanov\source\repos\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.genruntimeconfig.cache
