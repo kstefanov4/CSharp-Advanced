@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Streams_Files_Directories\\OddLines\\ExtractOddLines.csproj",
-      "projectName": "ExtractOddLines",
-      "projectPath": "C:\\GitHub\\Streams_Files_Directories\\OddLines\\ExtractOddLines.csproj",
+      "projectUniqueName": "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\OddLines\\OddLines.csproj",
+      "projectName": "OddLines",
+      "projectPath": "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\OddLines\\OddLines.csproj",
       "packagesPath": "C:\\Users\\35988\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Streams_Files_Directories\\OddLines\\obj\\",
+      "outputPath": "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\OddLines\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\35988\\AppData\\Roaming\\NuGet\\NuGet.Config",

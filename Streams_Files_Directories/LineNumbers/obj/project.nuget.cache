@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QK9e/Mz3Q/kk1q1awzPRqOt7U25HPDykXDpHddlf7XaX1rV8mKrwco8s9CwRNJMrwOQZueBkudEnRDEj02nUMQ==",
+  "dgSpecHash": "fZCPatu4FQRNzBWMoksf4zqyz5XYp4gCFStQ749moLcUvW62pntGXJSEu+rSLE920MiZl3Dro4xr214z9ikrXw==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj",
+  "projectFilePath": "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

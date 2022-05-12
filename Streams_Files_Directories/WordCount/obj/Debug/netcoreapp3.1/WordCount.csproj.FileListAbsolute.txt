@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\obj\Debug\netcoreapp3.1\WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+C:\GitHub\CSharp-Advanced\Streams_Files_Directories\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache

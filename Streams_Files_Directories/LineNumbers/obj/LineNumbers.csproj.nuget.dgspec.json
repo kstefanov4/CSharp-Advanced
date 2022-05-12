@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj": {}
+    "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj": {
+    "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj",
+        "projectUniqueName": "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj",
         "projectName": "LineNumbers",
-        "projectPath": "C:\\GitHub\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj",
+        "projectPath": "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\LineNumbers\\LineNumbers.csproj",
         "packagesPath": "C:\\Users\\35988\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\Streams_Files_Directories\\LineNumbers\\obj\\",
+        "outputPath": "C:\\GitHub\\CSharp-Advanced\\Streams_Files_Directories\\LineNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\35988\\AppData\\Roaming\\NuGet\\NuGet.Config",
