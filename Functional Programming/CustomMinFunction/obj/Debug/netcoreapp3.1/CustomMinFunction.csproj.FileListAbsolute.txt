@@ -1,0 +1,13 @@
+C:\Users\kstefanov\source\repos\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.exe
+C:\Users\kstefanov\source\repos\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.deps.json
+C:\Users\kstefanov\source\repos\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.runtimeconfig.json
+C:\Users\kstefanov\source\repos\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.dll
+C:\Users\kstefanov\source\repos\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.pdb
+C:\Users\kstefanov\source\repos\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.dll
+C:\Users\kstefanov\source\repos\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.pdb
+C:\Users\kstefanov\source\repos\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.genruntimeconfig.cache
