@@ -9,7 +9,7 @@ namespace SpeedRacing
         static void Main(string[] args)
         {
             int num = int.Parse(Console.ReadLine());
-            //List<Car> cars = new List<Car>();
+            
             Dictionary<string, Car> carMap = new Dictionary<string, Car>();
 
             for (int i = 0; i < num; i++)
@@ -20,7 +20,7 @@ namespace SpeedRacing
                 double fuelConsumptionFor1km = double.Parse(carInfo[2]);
 
                 Car car = new Car(model, fuelAmount, fuelConsumptionFor1km);
-                //cars.Add(car);
+                
                 carMap.Add(model, car);
             }
 
@@ -32,9 +32,9 @@ namespace SpeedRacing
                 int distance = int.Parse(commandArray[2]);
 
                 Car currentCar = carMap[commandArray[1]];
-                // cars.Remove(currentCar);
+                
                 currentCar.DriveKM(distance);
-                //cars.Add(currentCar);
+                
                 carMap[commandArray[1]] = currentCar;
                 
 
