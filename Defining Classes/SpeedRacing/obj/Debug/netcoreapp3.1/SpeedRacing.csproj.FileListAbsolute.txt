@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.exe
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.deps.json
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.genruntimeconfig.cache

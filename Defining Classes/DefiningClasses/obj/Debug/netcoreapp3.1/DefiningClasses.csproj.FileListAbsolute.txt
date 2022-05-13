@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache
