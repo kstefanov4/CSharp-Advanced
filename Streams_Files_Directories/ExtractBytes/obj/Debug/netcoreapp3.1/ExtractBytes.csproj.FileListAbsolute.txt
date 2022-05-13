@@ -1,0 +1,13 @@
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.exe
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.deps.json
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.runtimeconfig.json
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.runtimeconfig.dev.json
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.dll
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\bin\Debug\netcoreapp3.1\ExtractBytes.pdb
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.AssemblyInfoInputs.cache
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.AssemblyInfo.cs
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.csproj.CoreCompileInputs.cache
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.dll
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.pdb
+C:\Users\kstefanov\source\repos\Stream Files Directories\ExtractBytes\obj\Debug\netcoreapp3.1\ExtractBytes.genruntimeconfig.cache
