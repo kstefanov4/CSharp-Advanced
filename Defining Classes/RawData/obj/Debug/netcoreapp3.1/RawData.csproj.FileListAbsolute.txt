@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\obj\Debug\netcoreapp3.1\RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache
