@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.genruntimeconfig.cache
