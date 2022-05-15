@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.exe
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.deps.json
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\GitHub\CSharp-Advanced\Defining Classes\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.genruntimeconfig.cache
