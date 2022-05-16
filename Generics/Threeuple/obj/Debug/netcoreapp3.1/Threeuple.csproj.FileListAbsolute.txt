@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+C:\GitHub\CSharp-Advanced\Generics\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

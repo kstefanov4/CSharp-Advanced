@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.exe
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.deps.json
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\GitHub\CSharp-Advanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.genruntimeconfig.cache

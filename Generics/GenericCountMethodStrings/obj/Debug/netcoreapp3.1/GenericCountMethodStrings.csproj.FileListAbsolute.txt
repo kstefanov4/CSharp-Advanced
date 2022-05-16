@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.exe
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.deps.json
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+C:\GitHub\CSharp-Advanced\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.genruntimeconfig.cache
