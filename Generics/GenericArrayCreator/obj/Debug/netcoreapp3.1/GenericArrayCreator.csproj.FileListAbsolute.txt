@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.exe
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.deps.json
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.dll
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.dll
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+C:\GitHub\CSharp-Advanced\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.genruntimeconfig.cache
