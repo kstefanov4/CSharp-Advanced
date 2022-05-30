@@ -4,28 +4,30 @@ using System.Text;
 
 namespace CustomList
 {
-    internal class CustomList
+    internal class CustomList<T>
     {
         private static int defaultSize = 2;
-        private int[] items;
+        private T[] items;
         private int index;
+        private T zero;
         public CustomList()
         {
-            items = new int[defaultSize];
+            items = new T[defaultSize];
             index = 0;
+            zero = items[0];
         }
 
-        public void Add(int num)
+        public void Add(T input)
         {
             if (items.Length <= index)
             {
-                int[] newArray = Resize();
+                T[] newArray = Resize();
                 items = newArray;
-                items[index] = num;
+                items[index] = input;
             }
             else
             {
-                items[index] = num;
+                items[index] = input;
             }
 
             index++;
@@ -36,32 +38,23 @@ namespace CustomList
             if (InRangeChecker(num))
             {
                 Shift(num);
+                
+                items[index - 1] = zero;
                 index--;
             }
 
             if (items.Length / 4 > index)
             {
-                int[] newArray = Shrink();
+                T[] newArray = Shrink();
                 items = newArray;
             }
         }
 
-        private int[] Shrink()
-        {
-            int[] newArray = new int[items.Length / 2];
-            for (int i = 0; i < index; i++)
-            {
-                newArray[i] = items[i];
-            }
-
-            return newArray;
-        }
-
-        public bool Contains(int num)
+        public bool Contains(T input)
         {
             for (int i = 0; i < index; i++)
             {
-                if (items[i] == num)
+                if (items[i].Equals(input))
                 {
                     return true;
                 }
@@ -73,7 +66,7 @@ namespace CustomList
         {
             if (InRangeChecker(indexPosition1) && InRangeChecker(indexPosition2))
             {
-                int temp = items[indexPosition1];
+                T temp = items[indexPosition1];
                 items[indexPosition1] = items[indexPosition2];
                 items[indexPosition2] = temp;
             }
@@ -98,9 +91,9 @@ namespace CustomList
             
         }
 
-        private int[] Resize()
+        private T[] Resize()
         {
-            int[] newArray = new int[items.Length * 2];
+            T[] newArray = new T[items.Length * 2];
             for (int i = 0; i < index; i++)
             {
                 newArray[i] = items[i];
@@ -115,7 +108,18 @@ namespace CustomList
             {
                 items[i] = items[i + 1];
             }
-            items[index - 1] = 0;
+            
+        }
+
+        private T[] Shrink()
+        {
+            T[] newArray = new T[items.Length / 2];
+            for (int i = 0; i < index; i++)
+            {
+                newArray[i] = items[i];
+            }
+
+            return newArray;
         }
 
     }

@@ -7,7 +7,7 @@ namespace CustomList
     {
         static void Main(string[] args)
         {
-            CustomList customList = new CustomList();
+            CustomList<int> customList = new CustomList<int>();
             customList.Add(10);
             customList.Add(20);
             customList.Add(30);
