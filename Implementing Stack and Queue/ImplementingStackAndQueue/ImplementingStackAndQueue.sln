@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingStackAndQueue", "ImplementingStackAndQueue.csproj", "{A6538ECA-8583-4D00-B78D-0B9DB62F5F16}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomList", "..\CustomList\CustomList.csproj", "{11A79C6E-4D5B-4D35-A959-0863740695CA}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A6538ECA-8583-4D00-B78D-0B9DB62F5F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A6538ECA-8583-4D00-B78D-0B9DB62F5F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A6538ECA-8583-4D00-B78D-0B9DB62F5F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A6538ECA-8583-4D00-B78D-0B9DB62F5F16}.Release|Any CPU.Build.0 = Release|Any CPU
 		{11A79C6E-4D5B-4D35-A959-0863740695CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{11A79C6E-4D5B-4D35-A959-0863740695CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A79C6E-4D5B-4D35-A959-0863740695CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
