@@ -32,6 +32,7 @@ namespace CustomQueue
             {
                 Console.WriteLine(item);
             }
+            customQueue.ForEach(x => Console.WriteLine(x));
         }
     }
 }
