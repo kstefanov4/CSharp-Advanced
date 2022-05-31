@@ -44,7 +44,7 @@ namespace CustomStack
             }
             else
             {
-                throw new NullReferenceException();
+                throw new InvalidOperationException("Custom Stack is empty");
             }
 
         }
@@ -56,7 +56,7 @@ namespace CustomStack
             }
             else
             {
-                throw new NullReferenceException();
+                throw new InvalidOperationException("Custom Stack is empty");
             }
 
         }
