@@ -112,6 +112,14 @@ namespace CustomQueue
                 items = newArray;
             }
         }
+        
+        public void ForEach(Action<int> action)
+        {
+            for (int i = 0; i < index; i++)
+            {
+                action(items[i]);
+            }
+        }
 
         public IEnumerator GetEnumerator()
         {
