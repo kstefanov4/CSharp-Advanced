@@ -19,7 +19,7 @@ namespace Zoo
 
         public string AddAnimal (Animal animal)
         {
-            if (animal.Species == null || animal.Species == " ")
+            if (String.IsNullOrEmpty(animal.Species))
             {
                 return "Invalid animal species.";
             }
