@@ -1,0 +1,14 @@
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.exe
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.deps.json
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.runtimeconfig.json
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.runtimeconfig.dev.json
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.dll
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.pdb
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.csproj.AssemblyReference.cache
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.AssemblyInfoInputs.cache
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.AssemblyInfo.cs
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.csproj.CoreCompileInputs.cache
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.dll
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.pdb
+C:\GitHub\CSharp-Advanced\Exams\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.genruntimeconfig.cache
