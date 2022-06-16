@@ -98,8 +98,17 @@ namespace TheBattleOfTheFiveArmies
                 }
                 else
                 {
-                    RewriteTheMatrixAfterMove(row, col, 'A');
-                    return;
+                    if (armor > 0)
+                    {
+                        RewriteTheMatrixAfterMove(row, col,'A');
+                    }
+                    else
+                    {
+                        RewriteTheMatrixAfterMove(row, col, 'X');
+                        armyAlive = false;
+                        PrintDefeatedMessage();
+                        return;
+                    }
                 }
             }
 
