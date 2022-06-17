@@ -62,6 +62,8 @@ namespace Drones
 
         public int RemoveDroneByBrand(string brand)
         {
+            // return Drones.RemoveAll(x => x.brand == brand); 
+            
             int removedDrones = 0;
 
             for (int i = 0; i < Drones.Count; i++)
