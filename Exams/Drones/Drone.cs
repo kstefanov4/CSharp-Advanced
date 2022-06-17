@@ -23,11 +23,16 @@ namespace Drones
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            return
+                $"Drone: {Name}" + Environment.NewLine +
+                $"Manufactured by: {Brand}" + Environment.NewLine +
+                $"Range: {Range} kilometers";
+
+            /*StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Drone: {Name}");
             sb.AppendLine($"Manufactured by: {Brand}");
             sb.AppendLine($"Range: {Range} kilometers");
-            return sb.ToString().Trim();
+            return sb.ToString().Trim();*/
         }
 
     }
