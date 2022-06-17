@@ -100,7 +100,11 @@ namespace Drones
 
         public string Report()
         {
-            StringBuilder sb = new StringBuilder();
+            return
+                $"Drones available at {Name}:" +
+                string.Join(Environment.NewLine, Drones);
+
+            /*StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Drones available at {Name}:");
             
             foreach (var item in Drones)
@@ -110,7 +114,7 @@ namespace Drones
                 sb.AppendLine($"Range: {item.Range} kilometers");
             }
 
-            return sb.ToString().Trim();
+            return sb.ToString().Trim();*/
         }
     }
 }
