@@ -45,6 +45,9 @@ namespace Drones
 
         public bool RemoveDrone(string name)
         {
+            // int count = Drones.RemoveAll(x => x.Name == name);
+            // return count > 0;
+            
             foreach (var drone in Drones)
             {
                 Drone droneToRemove = this.Drones.FirstOrDefault(x => x.Name == name);
