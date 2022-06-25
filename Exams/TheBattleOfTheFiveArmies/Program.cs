@@ -55,7 +55,7 @@ namespace TheBattleOfTheFiveArmies
 
         private static void GetArmyPosition()
         {
-            for (int row = 0; row < jaggedArray.GetLength(0); row++)
+            for (int row = 0; row < jaggedArray.Length; row++)
             {
                 for (int col = 0; col < jaggedArray[row].Length; col++)
                 {
