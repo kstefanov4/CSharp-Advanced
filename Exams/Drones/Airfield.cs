@@ -45,6 +45,9 @@ namespace Drones
 
         public bool RemoveDrone(string name)
         {
+            // int count = Drones.RemoveAll(x => x.Name == name);
+            // return count > 0;
+            
             foreach (var drone in Drones)
             {
                 Drone droneToRemove = this.Drones.FirstOrDefault(x => x.Name == name);
@@ -59,6 +62,8 @@ namespace Drones
 
         public int RemoveDroneByBrand(string brand)
         {
+            // return Drones.RemoveAll(x => x.brand == brand); 
+            
             int removedDrones = 0;
 
             for (int i = 0; i < Drones.Count; i++)
@@ -95,7 +100,11 @@ namespace Drones
 
         public string Report()
         {
-            StringBuilder sb = new StringBuilder();
+            return
+                $"Drones available at {Name}:" +
+                string.Join(Environment.NewLine, Drones);
+
+            /*StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Drones available at {Name}:");
             
             foreach (var item in Drones)
@@ -105,7 +114,7 @@ namespace Drones
                 sb.AppendLine($"Range: {item.Range} kilometers");
             }
 
-            return sb.ToString().Trim();
+            return sb.ToString().Trim();*/
         }
     }
 }

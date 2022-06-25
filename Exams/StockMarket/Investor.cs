@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,7 +29,7 @@ namespace StockMarket
         public void BuyStock(Stock stock)
         {
 
-            if (stock.MarketCapitalization > 10000 && MoneyToInvest >= stock.PricePerShare && !portfolio.Contains(stock))
+            if (stock.MarketCapitalization >= 10000 && MoneyToInvest >= stock.PricePerShare && !portfolio.Contains(stock))
             {
                 portfolio.Add(stock);
                 MoneyToInvest -= stock.PricePerShare;
@@ -77,7 +78,11 @@ namespace StockMarket
 
         public string InvestorInformation()
         {
-            StringBuilder sb = new StringBuilder();
+            return
+                $"The investor {FullName} with a broker {BrokerName} has stocks:" + Environment.NewLine +
+                string.Join(Environment.NewLine, Portfolio);
+            
+            /*StringBuilder sb = new StringBuilder();
             sb.AppendLine($"The investor {FullName} with a broker {BrokerName} has stocks: ");
 
             foreach (Stock stock in Portfolio)
@@ -86,7 +91,7 @@ namespace StockMarket
                 sb.AppendLine();
             }
 
-            return sb.ToString().Trim();
+            return sb.ToString().Trim();*/
         }
     }
 }
